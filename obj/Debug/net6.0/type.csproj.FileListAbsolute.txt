@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/type/bin/Debug/net6.0/type
+/Users/fatihbasar/Desktop/type/bin/Debug/net6.0/type.deps.json
+/Users/fatihbasar/Desktop/type/bin/Debug/net6.0/type.runtimeconfig.json
+/Users/fatihbasar/Desktop/type/bin/Debug/net6.0/type.dll
+/Users/fatihbasar/Desktop/type/bin/Debug/net6.0/type.pdb
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.dll
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/refint/type.dll
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.pdb
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/type.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/type/obj/Debug/net6.0/ref/type.dll
